@@ -61,6 +61,11 @@ nav .container {
   transition: var(--transition);
 }
 
+#about .text {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 .nav-links a:hover { color: var(--primary); }
 
 #lang-switch {
